@@ -124,4 +124,4 @@
    * ##### Useful Git Commands
       The [Terminal Commands](./Terminal_Commands.md) file provides a couple of useful git commands for various tasks.
 
-<br>---
+---
